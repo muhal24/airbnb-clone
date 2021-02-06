@@ -2,7 +2,7 @@
 <h1>Airbnb-clone</h1>
 
 
-### `yarn start`
+### `yarn install` and  `yarn start`
 
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
